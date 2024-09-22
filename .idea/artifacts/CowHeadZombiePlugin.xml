@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CowHeadZombiePlugin">
+    <output-path>$PROJECT_DIR$/out/artifacts/CowHeadZombiePlugin</output-path>
+    <root id="archive" name="CowHeadZombiePlugin.jar">
+      <element id="module-output" name="CowHeadZombiePlugin.main" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

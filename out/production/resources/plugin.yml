@@ -1,0 +1,4 @@
+name: CowHeadZombiePlugin
+version: '1.0-SNAPSHOT'
+main: io.github.pikapikagfy.cowHeadZombiePlugin.CowHeadZombiePlugin
+api-version: '1.21'
